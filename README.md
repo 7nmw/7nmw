@@ -39,7 +39,11 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="Latex" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="Matlab" width="40" height="40"/>&nbsp;
-          
-          
-          
-          
+
+### My stat
+<div id="stat" align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7nmw&theme=default"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7nmw&theme=default"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7nmw&theme=default"/>
+</div>
+
