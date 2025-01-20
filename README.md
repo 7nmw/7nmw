@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7nmw&theme=default"/>
 </div>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7nmw&theme=solarized_dark)
